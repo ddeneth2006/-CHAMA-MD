@@ -39,7 +39,7 @@ OWNER_NAME: process.env.OWNER_NAME || "chamindu ",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ chamindu *",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/5XNzHkVp/3908.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/F4Mzpfpg.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *CHAMA-MD*⚡",
 // add alive msg here 
